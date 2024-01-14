@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Domain": {
+      "commandName": "Project"
+    },
+    "Profile 2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards",
+      "nativeDebugging": true
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\KanBoards.sln"
+    }
+  }
+}

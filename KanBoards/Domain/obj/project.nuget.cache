@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Xh/JOfkyTc3+5DKCLHccmQP7NSu3MWt8OKqVVMHqczG6LSSLA5XRfbUmGPTXYNzo/ClK9BYmshhPJF86vVw+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fobio\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\fobio\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\fobio\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\fobio\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\fobio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fobio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

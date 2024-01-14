@@ -1,0 +1,7 @@
+export const PAGE_LIST = {
+  LOGIN: "LOGIN",
+  REGISTER: "REGISTER",
+  HOME: "HOME",
+  SETTINGS: "SETTINGS",
+  LOGOUT: "LOGOUT",
+};

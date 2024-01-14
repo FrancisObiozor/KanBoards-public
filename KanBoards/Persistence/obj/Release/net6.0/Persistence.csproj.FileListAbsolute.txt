@@ -1,0 +1,15 @@
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\bin\Release\net6.0\Persistence.deps.json
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\bin\Release\net6.0\Persistence.dll
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\bin\Release\net6.0\Persistence.pdb
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\bin\Release\net6.0\Domain.dll
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\bin\Release\net6.0\Domain.pdb
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.csproj.CopyComplete
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.dll
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\refint\Persistence.dll
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\Persistence.pdb
+C:\Users\fobio\OneDrive\Documents\Software-Development\CSharp\Mentorship\ToDoList\src\ToDoList\Persistence\obj\Release\net6.0\ref\Persistence.dll

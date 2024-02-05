@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ezg+qXVCw9dTjZVwBOhHrR+7HYyMrPADpApjEBf6/mJvGCRs2glqTQxcDM3OLE6SY/MzhthIqLreel9zUmZlBg==",
+  "dgSpecHash": "bhbKrkFMIBjgmxytDxebspw3BbQjHMw5eIbXHQzJI31PvUzfPMkm2DNxcHAI6mnrmihv/nvmI4ZlWzfcIWSezQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fobio\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\fobio\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

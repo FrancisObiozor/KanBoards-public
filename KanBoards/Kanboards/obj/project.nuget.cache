@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P+kMnV/2RnkuXX3r5cncamgwO1ppDSqpemDEpI9hL1rdhrRFJ7yVKYeQ/P344ljflPy2NTeDHjOmG2rKpSkhrg==",
+  "dgSpecHash": "EZX922qC43ExU6gKKZos05HfDg196qFkA9c1V11v+cyZigF6mChy0t4+hQYBS1f2UqUNOsNBU0hzGZijlrfC2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Kanboards\\Api.csproj",
+  "projectFilePath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Kanboards\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fobio\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\fobio\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

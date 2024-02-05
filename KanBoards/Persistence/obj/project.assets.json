@@ -1325,11 +1325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\fobio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1351,8 +1351,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\fobio\\Documents\\Software-Development\\CSharp\\Mentorship\\KanBoards\\src\\KanBoards\\Domain\\Domain.csproj"
+            "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\fobio\\OneDrive\\Documents\\Software-Development\\Projects\\Kanboards\\Code\\KanBoards-public\\KanBoards\\Domain\\Domain.csproj"
             }
           }
         }
